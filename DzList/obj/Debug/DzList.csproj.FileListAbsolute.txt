@@ -1,0 +1,6 @@
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\bin\Debug\DzList.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\bin\Debug\DzList.exe
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\bin\Debug\DzList.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\obj\Debug\DzList.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\obj\Debug\DzList.exe
+c:\users\павлове\documents\visual studio 2017\Projects\DzList\DzList\obj\Debug\DzList.pdb
